@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-offline-pos-filament",
+  "capabilityKey": "planned:ecommerce:offline-pos",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-offline-pos-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/offline-pos.md",
+  "presentationPlan": "projects/ecommerce/filament/offline-pos.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

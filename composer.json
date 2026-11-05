@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-offline-pos-filament",
+  "description": "Offline POS Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capabilitya99f5c0e988d\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-offline-pos-filament"
+    }
+  }
+}
